@@ -14,4 +14,4 @@ git commit -m "message"
 git checkout --. / state at last commit
 
 git push origin master
-
+git clone <url>
