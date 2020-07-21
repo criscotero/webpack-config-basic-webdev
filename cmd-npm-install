@@ -1,0 +1,9 @@
+npm install webpack --save-dev
+
+npm install strip-loader --save-dev
+
+/////////////////////////
+
+npm install webpack webpack-cli --save-dev
+npm install webpack-dev-server --save-dev
+npm install css-loader style-loader --save-dev
