@@ -1,0 +1,17 @@
+git config --global user.name "myname"
+git config --global user.email "myemail"
+
+git remote -v
+git remote set-url origin <url>
+
+
+git status
+
+git add -A
+
+git commit -m "message"
+
+git checkout --. / state at last commit
+
+git push origin master
+
