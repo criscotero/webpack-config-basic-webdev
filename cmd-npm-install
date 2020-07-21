@@ -3,7 +3,13 @@ npm install webpack --save-dev
 npm install strip-loader --save-dev
 
 /////////////////////////
+npm install -y 
+npm install iodash
+npm install normalize.css
+
+npm install // to install packages.json
 
 npm install webpack webpack-cli --save-dev
 npm install webpack-dev-server --save-dev
+npm install postcss-simple-vars postcss-nested autoprefixer --save-dev
 npm install css-loader style-loader --save-dev
